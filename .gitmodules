@@ -31,3 +31,6 @@
 [submodule "drupal"]
 	path = drupal
 	url = git@github.com:kahunacoder/drupal.git
+[submodule "magento2"]
+	path = magento2
+	url = git@github.com:kahunacoder/magento2.git
