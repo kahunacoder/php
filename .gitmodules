@@ -34,3 +34,6 @@
 [submodule "magento2"]
 	path = magento2
 	url = git@github.com:kahunacoder/magento2.git
+[submodule "doctrine1"]
+	path = doctrine1
+	url = git@github.com:kahunacoder/doctrine1.git
