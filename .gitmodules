@@ -13,3 +13,6 @@
 [submodule "zf1-extras"]
 	path = zf1-extras
 	url = git@github.com:kahunacoder/zf1-extras.git
+[submodule "NuSOAP"]
+	path = NuSOAP
+	url = git@github.com:kahunacoder/NuSOAP.git
