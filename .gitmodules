@@ -4,3 +4,6 @@
 [submodule "Slim"]
 	path = Slim
 	url = git@github.com:kahunacoder/Slim.git
+[submodule "zf2"]
+	path = zf2
+	url = git@github.com:kahunacoder/zf2.git
