@@ -28,3 +28,6 @@
 [submodule "PHPMailer"]
 	path = PHPMailer
 	url = git@github.com:kahunacoder/PHPMailer.git
+[submodule "drupal"]
+	path = drupal
+	url = git@github.com:kahunacoder/drupal.git
