@@ -25,3 +25,6 @@
 [submodule "firephp"]
 	path = firephp
 	url = git@github.com:kahunacoder/firephp.git
+[submodule "PHPMailer"]
+	path = PHPMailer
+	url = git@github.com:kahunacoder/PHPMailer.git
