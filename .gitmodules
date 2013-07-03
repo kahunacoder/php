@@ -10,3 +10,6 @@
 [submodule "zf1"]
 	path = zf1
 	url = git@github.com:kahunacoder/zf1.git
+[submodule "zf1-extras"]
+	path = zf1-extras
+	url = git@github.com:kahunacoder/zf1-extras.git
