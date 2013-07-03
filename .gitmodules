@@ -19,3 +19,6 @@
 [submodule "WordPress"]
 	path = WordPress
 	url = git@github.com:kahunacoder/WordPress.git
+[submodule "adodb"]
+	path = adodb
+	url = git@github.com:kahunacoder/adodb.git
