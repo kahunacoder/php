@@ -22,3 +22,6 @@
 [submodule "adodb"]
 	path = adodb
 	url = git@github.com:kahunacoder/adodb.git
+[submodule "firephp"]
+	path = firephp
+	url = git@github.com:kahunacoder/firephp.git
