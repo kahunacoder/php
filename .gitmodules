@@ -40,3 +40,6 @@
 [submodule "doctrine2"]
 	path = doctrine2
 	url = git@github.com:kahunacoder/doctrine2.git
+[submodule "Smarty"]
+	path = Smarty
+	url = git@github.com:kahunacoder/Smarty.git
