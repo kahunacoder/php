@@ -1,3 +1,6 @@
 [submodule "Mobile-Detect"]
 	path = Mobile-Detect
 	url = git@github.com:kahunacoder/Mobile-Detect.git
+[submodule "Slim"]
+	path = Slim
+	url = git@github.com:kahunacoder/Slim.git
