@@ -7,3 +7,6 @@
 [submodule "zf2"]
 	path = zf2
 	url = git@github.com:kahunacoder/zf2.git
+[submodule "zf1"]
+	path = zf1
+	url = git@github.com:kahunacoder/zf1.git
