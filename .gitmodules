@@ -16,3 +16,6 @@
 [submodule "NuSOAP"]
 	path = NuSOAP
 	url = git@github.com:kahunacoder/NuSOAP.git
+[submodule "WordPress"]
+	path = WordPress
+	url = git@github.com:kahunacoder/WordPress.git
